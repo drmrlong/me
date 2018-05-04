@@ -51,7 +51,7 @@ I go to a lot of meetings. Please ask me if you have a question about it or are 
 
 My definition of an ideal meeting is a goal for the meeting, a reasonable number of active attendees (and avoiding the "too many cooks" problem), and someone keep us all accountable. I also need some work on executing these. 
 
-I would prefer to start on time. I also believe everyone's time here is equally important. If a meeting starts to go over, I will leave to avoid being late for other people. I am trying to be more aware and active about this. I encourage everyone here to do the same.
+I would prefer to start on time. I also believe everyone's time here is equally important. If a meeting starts to go over, I will leave to avoid being late for other people. I am trying to be more aware and active about this, so please call me out when I fail. I also encourage everyone here to do the same.
 
 If you send me a deck or doc before the meeting to pre-read, I promise to do so. If I don't, I will admit it to save you (and everyone) time.
 
@@ -65,7 +65,7 @@ If we complete our goal before the meetings supposed to end, let's give the time
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**My default state is informal** I believe in a minimum of process whenever possible. Sometimes I go to far on the spectrum. I also have a laid back attitude by default, and somes I swear. Sorry.
+**My default state is informal** I believe in a minimum of process whenever possible. Sometimes I go to far on the spectrum. I also have a laid back attitude by default, and sometimes I swear. Sorry in advance about that last bit!
 
 **I truly appreciate feedback** and I am trying to be more proactive at coaxing it. I promise to listen fully, and ask clarification. If you don't think I am, please call me on it and let’s fix that bit of communication.
 
