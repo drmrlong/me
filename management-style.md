@@ -28,7 +28,7 @@ These are my personal principles, not official company ones.
 
 **Bias toward action** My view of managers hasn't changed since I've become one; we're a tax on the company. One of the biggest dangers of that is if and when I become a blocker for you or the team. We hire smart people for their autonomy; if you believe we need to do something NOW (release, work on a next feature, fix a bug) don't wait for permission. Instead bias towards action and ask for forgiveness instead.
 
-**Users First** Properties and landlords are a huge part of our business and we should care about their needs. However, many other teams are their voice, and our top concern is user problems and amazing UX. This means helping renters have the best experience possible. As an old colleague said: "We do the work so you don't have to".
+**Users First** Properties and landlords are a huge part of our business and we should care about their needs. However, many other teams are their voice, and our top concern is user problems and amazing UX. This means helping renters have the best experience possible. One description of our UX philosophy is "We do the work so you don't have to".
 
 **Leave it better than you found it** If we're constantly making small iterative improvements in the quality of our codebase, it makes it so much nicer to work in. This also applies to life, so we should grow ourselves and coworkers too. 
 
@@ -40,7 +40,7 @@ We have a semi formal feedback cycle once a month called Small Improvements.  Yo
 
 During our 1on1s, one of my default topics in my back pocket is feedback for you. I would rather give it ASAP then wait for SI.  
 
-If you disagree with any of my feedback, please mention it. It may mean that we’ve had a breakdown in communication somewhere else, which is a completely different issue to work on. 
+If you disagree with any of my feedback, please mention it. It may mean that we’ve had a breakdown in communication somewhere else, which is a completely different issue to work on. It also may mean I'm just wrong about it :)
 
 “Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.” -RandsInRepose, the brilliant manager I stole this doc idea from.
 
@@ -51,7 +51,7 @@ I go to a lot of meetings. Please ask me if you have a question about it or are 
 
 My definition of an ideal meeting is a goal for the meeting, a reasonable number of active attendees (and avoiding the "too many cooks" problem), and someone keep us all accountable. I also need some work on executing these. 
 
-I would prefer to start on time. I also believe everyone's time here is equally important. If a meeting starts to go over, I will leave to avoid being late for other people. I am trying to be more aware and active about this, so please call me out when I fail. I also encourage everyone here to do the same.
+I would prefer to start on time. I also believe everyone's time here is equally important. If a meeting starts to go over, I will try to leave to avoid being late for other people. I am trying to be more aware and active about this, so please call me out when I fail. I also encourage everyone here to do the same.
 
 If you send me a deck or doc before the meeting to pre-read, I promise to do so. If I don't, I will admit it to save you (and everyone) time.
 
@@ -63,9 +63,9 @@ If we complete our goal before the meetings supposed to end, let's give the time
 
 **I play devil's advocate** This happens more the harder someones pushes on a topic. I also do it more the better I know you, and in 1on1 situations.
 
-**When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
+**When I ask you to do something that feels poorly defined** you should ask me for both clarification and the priority of it. I might still be brainstorming. These questions can save everyone a lot of time.
 
-**My default state is informal** I believe in a minimum of process whenever possible. Sometimes I go to far on the spectrum. I also have a laid back attitude by default, and sometimes I swear. Sorry in advance about that last bit!
+**My default state is informal** I believe in a minimum of process whenever possible. Sometimes I go to far on that spectrum. I also have a laid back attitude by default, and sometimes I swear. Sorry in advance about that last bit!
 
 **I truly appreciate feedback** and I am trying to be more proactive at coaxing it. I promise to listen fully, and ask clarification. If you don't think I am, please call me on it and let’s fix that bit of communication.
 
