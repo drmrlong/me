@@ -28,7 +28,7 @@ These are my personal principles, not official company ones.
 
 **Bias toward action** My view of managers hasn't changed since I've become one; we're a tax on the company. One of the biggest dangers of that is if and when I become a blocker for you or the team. We hire smart people for their autonomy; if you believe we need to do something NOW (release, work on the next feature, fix a bug) don't wait for permission. Instead bias towards action and ask for forgiveness instead.
 
-**Users First** I'm a huge UX person, and believe that the intangible "wow" factor makes the product win users' hearts and market share. This means one of my top concerns is user problems and amazing UX. This can cause tention with people who are more business or metric focused; trust me, I believe in those as well, they are just not my default.
+**Users First** I'm a huge UX person, and believe that the intangible "wow" factor makes the product win users' hearts and market share. This means one of my top concerns is user problems and amazing UX. This can cause tension with people who are more business or metric focused; trust me, I believe in those as well, they are just not my default.
 
 **Leave it better than you found it** If we're constantly making small iterative improvements in the quality of our codebase, it makes it so much nicer to work in. This also applies to life, so we should grow ourselves and coworkers too. 
 
