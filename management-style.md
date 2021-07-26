@@ -63,9 +63,9 @@ If we complete our goal before the meetings supposed to end, let's give the time
 
 ## Habits and Nuance 
 
-**I am an introvert** even though I seem outgoing at times. Prolonged exposure to humans is tiring. The bigger the group the quicker it happens, so if after a long day I retreat to my headphones and work don't be offended. It also means I'm more likely to speak up in smaller groups (although I try to fight this bad habit in bigger ones).
+**I am an introvert** even though I seem outgoing at times. Prolonged exposure to humans is tiring. The bigger the group the quicker it happens, so after a long day I tend to retreat to my headphones and work. It also means I'm more likely to speak up in smaller groups (although I try to fight this bad habit in bigger ones), or when its with folks I know well.  
 
-**I play devil's advocate** This happens more the harder someones pushes on a topic. I also do it more the better I know you, and in 1on1 situations.
+**I play devil's advocate** This happens more the harder someones pushes on a topic. I'll also do it in 1on1 situations to fully flesh out an idea or topic.  If you think I'm pushing for a different solution then the one you're suggesting... it may be this habit more then a full opinion.
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and the priority of it. I might still be brainstorming. These questions can save everyone a lot of time.
 
